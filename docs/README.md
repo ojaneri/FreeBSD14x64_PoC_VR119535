@@ -28,7 +28,7 @@ Date Created: 2026-02-13
 Last Modified: 2026-02-13
 -->
 
-# FreeBSD PMC Validation Lab
+# FreeBSD14x64_PoC_VR119535: PMC Validation Lab
 
 This lab environment serves as a **Technical Portfolio and Proof-of-Concept** for the **FreeBSD Kernel Testing Engineer (PMC Validation)** role (Req: VR-119535). It implements a simulated environment to perform Performance Monitoring Counters (PMC) validation, upstream integration, and debugging.
 
